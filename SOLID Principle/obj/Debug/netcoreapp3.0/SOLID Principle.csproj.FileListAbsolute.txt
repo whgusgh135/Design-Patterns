@@ -1,0 +1,11 @@
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\bin\Debug\netcoreapp3.0\SOLID Principle.exe
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\bin\Debug\netcoreapp3.0\SOLID Principle.deps.json
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\bin\Debug\netcoreapp3.0\SOLID Principle.runtimeconfig.json
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\bin\Debug\netcoreapp3.0\SOLID Principle.runtimeconfig.dev.json
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\bin\Debug\netcoreapp3.0\SOLID Principle.dll
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\bin\Debug\netcoreapp3.0\SOLID Principle.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\obj\Debug\netcoreapp3.0\SOLID Principle.csprojAssemblyReference.cache
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\obj\Debug\netcoreapp3.0\SOLID Principle.AssemblyInfoInputs.cache
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\obj\Debug\netcoreapp3.0\SOLID Principle.AssemblyInfo.cs
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\obj\Debug\netcoreapp3.0\SOLID Principle.dll
+E:\Coding\Course\Design Patterns in C# and .NET\SOLID Principle\SOLID Principle\obj\Debug\netcoreapp3.0\SOLID Principle.pdb
