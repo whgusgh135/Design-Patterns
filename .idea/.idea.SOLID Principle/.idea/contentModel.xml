@@ -14,6 +14,7 @@
             </e>
           </e>
         </e>
+        <e p="OpenClosedPrinciple.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="SOLID Principle.csproj" t="IncludeRecursive" />
       </e>
