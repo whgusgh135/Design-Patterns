@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOLID Principle/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/SOLID Principle.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/SOLID Principle.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/bin/Debug/netcoreapp3.0/SOLID Principle.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/bin/Debug/netcoreapp3.0/SOLID Principle.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/bin/Debug/netcoreapp3.0/SOLID Principle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/bin/Debug/netcoreapp3.0/SOLID Principle.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/obj/Debug/netcoreapp3.0/SOLID Principle.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/obj/Debug/netcoreapp3.0/SOLID Principle.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/obj/Debug/netcoreapp3.0/SOLID Principle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/obj/Debug/netcoreapp3.0/SOLID Principle.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577830431652</updated>
       <workItem from="1577830433210" duration="4212000" />
-      <workItem from="1577952672212" duration="2748000" />
+      <workItem from="1577952672212" duration="3225000" />
     </task>
     <servers />
   </component>
