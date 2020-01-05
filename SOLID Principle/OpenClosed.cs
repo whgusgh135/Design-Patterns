@@ -1,9 +1,12 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
 namespace SOLID_Principle
 {
+    // OPEN/CLOSED PRINCIPLE
+    // Software entities (classes, modules, functions, etc) should be
+    // open for extension, but closed for modification
+    
     public enum Color
     {
         Red, Green,Blue
@@ -33,6 +36,9 @@ namespace SOLID_Principle
         }
     }
 
+    // BAD WAY
+    // Not open for extension nor closed for modification
+    // Have to make a new method inside the class every time
     public class ProductFilter
     {
         public IEnumerable<Product> FilterBySize(IEnumerable<Product> products, Size size)
@@ -57,6 +63,7 @@ namespace SOLID_Principle
         }
     }
 
+    // BETTER APPROACH
     public interface ISpecification<T>
     {
         bool IsSatisfied(T t);
@@ -81,6 +88,37 @@ namespace SOLID_Principle
             return t.Color == color;
         }
     }
+    
+    public class SizeSpecification : ISpecification<Product>
+    {
+        private Size size;
+
+        public SizeSpecification(Size size)
+        {
+            this.size = size;
+        }
+
+        public bool IsSatisfied(Product t)
+        {
+            return t.Size == size;
+        }
+    }
+
+    public class AndSpecification<T> : ISpecification<T>
+    {
+        private ISpecification<T> first, second;
+
+        public AndSpecification(ISpecification<T> first, ISpecification<T> second)
+        {
+            this.first = first ?? throw new ArgumentNullException(paramName: nameof(first));
+            this.second = second ?? throw new ArgumentNullException(paramName: nameof(second));
+        }
+
+        public bool IsSatisfied(T t)
+        {
+            return first.IsSatisfied(t) && second.IsSatisfied(t);
+        }
+    }
 
     public class BetterFilter : IFilter<Product>
     {
@@ -91,4 +129,5 @@ namespace SOLID_Principle
                     yield return i;
         }
     }
+    
 }

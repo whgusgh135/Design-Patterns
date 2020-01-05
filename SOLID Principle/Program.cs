@@ -1,62 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
 
 namespace SOLID_Principle
 {
-    public class Journal
-    {
-        private readonly List<string> entries = new List<string>();
-
-        private static int count = 0;
-
-        public int AddEntry(string text)
-        {
-            entries.Add($"{++count}: {text}");
-            return count; // memento pattern
-        }
-
-        public void removeEntry(int index)
-        {
-            entries.RemoveAt(index);
-        }
-
-        public override string ToString()
-        {
-            return string.Join(Environment.NewLine, entries);
-        }
-
-        // move these methods to separate class for single responsibility principle
-        public void Save(string filename)
-        {
-            File.WriteAllText(filename, ToString());
-        }
-
-        public void Load(string filename)
-        {
-            
-        }
-
-        public void Load(Uri uri)
-        {
-            
-        }
-    }
-
-    public class Persistence
-    {
-        public void SaveToFile(Journal j, string filename, bool overwrite = false)
-        {
-            if (overwrite || !File.Exists(filename))
-                File.WriteAllText(filename, j.ToString());
-        }
-    }
-    
     class Program
     {
         static void Main(string[] args)
         {
+            // Single responsibility
+            
             var j = new Journal();
             j.AddEntry("I cried today");
             j.AddEntry("I stared at the ceiling for 8 hours");
@@ -66,6 +17,9 @@ namespace SOLID_Principle
             var filename = @"e:\Coding\Course\journal.txt";
             ps.SaveToFile(j, filename, true);
             /*Process.Start(filename);*/
+            
+            
+            // Open/Closed
             
             var apple = new Product("Apple", Color.Green, Size.Small);
             var tree = new Product("Tree", Color.Green, Size.Large);
@@ -86,8 +40,31 @@ namespace SOLID_Principle
             {
                 Console.WriteLine(($" - {p.Name} is green"));
             }
+            
+            Console.WriteLine("Large blue items:");
+            foreach (var p in bf.Filter(
+                products,
+                new AndSpecification<Product>(
+                    new ColorSpecification(Color.Blue),
+                    new SizeSpecification(Size.Large)
+                )
+            ))
+            {
+                Console.WriteLine($" - {p.Name} is big and blue");
+            }
+            
+            
+            
+            // Liskov Substition
+
+            static int Area(Rectangle r) => r.Width * r.Height;
+            Rectangle rc = new Rectangle(2, 3);
+            Console.WriteLine($"{rc} has area {Area(rc)}");
+            
+            // this should work but not with the initial method
+            Rectangle sq = new Square();
+            sq.Width = 4;
+            Console.WriteLine($"{sq} has area {Area(sq)}");
         }
     }
-    
-    // check git
 }
