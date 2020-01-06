@@ -7,6 +7,8 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="SOLID Principle" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="DependencyInversion.cs" t="Include" />
+        <e p="InterfaceSegregation.cs" t="Include" />
         <e p="LiskovSubstitution.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
