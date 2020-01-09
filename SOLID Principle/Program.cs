@@ -65,7 +65,6 @@ namespace SOLID_Principle
             Rectangle sq = new Square();
             sq.Width = 4;
             Console.WriteLine($"{sq} has area {Area(sq)}");
-            
         }
     }
 }

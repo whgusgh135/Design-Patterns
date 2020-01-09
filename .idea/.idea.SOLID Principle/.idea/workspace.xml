@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principle/DependencyInversion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/DependencyInversion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLID Principle/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +26,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SOLID Principle/OpenClosedPrinciple.cs" />
-        <option value="$PROJECT_DIR$/SOLID Principle/Program.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/OpenClosed.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/SingleResponsibility.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/LiskovSubstitution.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/InterfaceSegregation.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principle/Program.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/DependencyInversion.cs" />
       </list>
     </option>
@@ -92,7 +93,8 @@
       <workItem from="1577830433210" duration="4212000" />
       <workItem from="1577952672212" duration="4289000" />
       <workItem from="1578198535523" duration="3924000" />
-      <workItem from="1578300864748" duration="1786000" />
+      <workItem from="1578300864748" duration="3030000" />
+      <workItem from="1578562235780" duration="1300000" />
     </task>
     <servers />
   </component>
@@ -139,9 +141,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="378" y="162" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578199006129" />
-    <state x="558" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1578301171463">
+    <state x="558" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1578563346266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="234" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578301171463" />
+    <state x="558" y="234" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578563346266" />
   </component>
 </project>
