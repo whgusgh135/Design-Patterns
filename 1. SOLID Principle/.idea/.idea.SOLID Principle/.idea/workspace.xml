@@ -30,8 +30,8 @@
         <option value="$PROJECT_DIR$/SOLID Principle/SingleResponsibility.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/LiskovSubstitution.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/InterfaceSegregation.cs" />
-        <option value="$PROJECT_DIR$/SOLID Principle/Program.cs" />
         <option value="$PROJECT_DIR$/SOLID Principle/DependencyInversion.cs" />
+        <option value="$PROJECT_DIR$/SOLID Principle/Program.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +94,7 @@
       <workItem from="1577952672212" duration="4289000" />
       <workItem from="1578198535523" duration="3924000" />
       <workItem from="1578300864748" duration="3030000" />
-      <workItem from="1578562235780" duration="1300000" />
+      <workItem from="1578562235780" duration="1663000" />
     </task>
     <servers />
   </component>
