@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\SOLID Principle.csproj": {}
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\SOLID Principle.csproj": {
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
-        "projectName": "SOLID Principle",
-        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
+        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\조현호\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\obj\\",
+        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\조현호\\AppData\\Roaming\\NuGet\\NuGet.Config"

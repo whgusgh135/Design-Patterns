@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOLID Principle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/DependencyInversion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/DependencyInversion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOLID Principle/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOLID Principle/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SOLID Principle/OpenClosed.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,6 +91,7 @@
       <workItem from="1578198535523" duration="3924000" />
       <workItem from="1578300864748" duration="3030000" />
       <workItem from="1578562235780" duration="1663000" />
+      <workItem from="1578649944681" duration="120000" />
     </task>
     <servers />
   </component>
@@ -117,22 +114,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1503" height="265" key="GridCell.Tab.0.bottom" timestamp="1578202638418">
+    <state width="1505" height="265" key="GridCell.Tab.0.bottom" timestamp="1578650069730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1503" height="265" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578202638418" />
-    <state width="1503" height="265" key="GridCell.Tab.0.center" timestamp="1578202638418">
+    <state width="1505" height="265" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578650069730" />
+    <state width="1505" height="265" key="GridCell.Tab.0.center" timestamp="1578650069730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1503" height="265" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578202638418" />
-    <state width="1503" height="265" key="GridCell.Tab.0.left" timestamp="1578202638418">
+    <state width="1505" height="265" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578650069730" />
+    <state width="1505" height="265" key="GridCell.Tab.0.left" timestamp="1578650069730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1503" height="265" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578202638418" />
-    <state width="1503" height="265" key="GridCell.Tab.0.right" timestamp="1578202638418">
+    <state width="1505" height="265" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578650069730" />
+    <state width="1505" height="265" key="GridCell.Tab.0.right" timestamp="1578650069730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1503" height="265" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578202638418" />
+    <state width="1505" height="265" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578650069730" />
+    <state x="487" y="247" key="Rider.ProjectTemplateDialog.Size" timestamp="1578649995640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="247" key="Rider.ProjectTemplateDialog.Size/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1578649995640" />
     <state x="709" y="226" key="RiderGenerateDialog" timestamp="1578301617960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

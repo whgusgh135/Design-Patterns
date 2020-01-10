@@ -1,0 +1,11 @@
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\obj\Debug\netcoreapp3.0\Builder.csprojAssemblyReference.cache
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\obj\Debug\netcoreapp3.0\Builder.AssemblyInfoInputs.cache
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\obj\Debug\netcoreapp3.0\Builder.AssemblyInfo.cs
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\bin\Debug\netcoreapp3.0\Builder.exe
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\bin\Debug\netcoreapp3.0\Builder.deps.json
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\bin\Debug\netcoreapp3.0\Builder.runtimeconfig.json
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\bin\Debug\netcoreapp3.0\Builder.runtimeconfig.dev.json
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\bin\Debug\netcoreapp3.0\Builder.dll
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\bin\Debug\netcoreapp3.0\Builder.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\obj\Debug\netcoreapp3.0\Builder.dll
+E:\Coding\Course\Design Patterns in C# and .NET\2. Builder\Builder\obj\Debug\netcoreapp3.0\Builder.pdb

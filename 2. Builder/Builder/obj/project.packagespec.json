@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
-    "projectName": "SOLID Principle",
-    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\SOLID Principle.csproj",
-    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\1. SOLID Principle\\SOLID Principle\\obj\\",
+    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\Builder.csproj",
+    "projectName": "Builder",
+    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\Builder.csproj",
+    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\2. Builder\\Builder\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
