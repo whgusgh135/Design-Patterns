@@ -51,6 +51,27 @@ namespace Builder
                 .WorksAsA("developer")
                 .Build();
             Console.WriteLine(me.ToString());
+            
+            
+            
+            // Functional Builder
+            var fpb = new FuncPersonBuilder();
+            fpb.Called("Kevin")
+                .WorksAsA("developer")
+                .Build();
+            
+            
+            
+            // Faceted Builder
+            var pb = new FacetedPersonBuilder();
+            FacetedPerson person = pb
+                .Works.At("TradeMe")
+                      .AsA("Engineer")
+                      .Earning(700000)
+                .Lives.At("123 London Road")
+                      .In("London")
+                      .WithPostcode("555");
+            Console.WriteLine(person);
         }
     }
 }

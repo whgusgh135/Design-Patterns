@@ -8,7 +8,9 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Builder.cs" t="Include" />
         <e p="Builder.csproj" t="IncludeRecursive" />
+        <e p="FacetedBuilder.cs" t="Include" />
         <e p="FluentBuilderInheritanceAndRecursiveGenerics.cs" t="Include" />
+        <e p="FunctionalBuilder.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
