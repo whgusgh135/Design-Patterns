@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\조현호\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\조현호\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Factories.-1639073094.00" t="ExcludeRecursive" />
-    <e p="E:\Coding\Course\Design Patterns in C# and .NET\Factories" t="IncludeFlat">
+    <e p="C:\Users\조현호\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Factories.-2034757225.00" t="ExcludeRecursive" />
+    <e p="E:\Coding\Course\Design Patterns in C# and .NET\3. Factories" t="IncludeFlat">
       <e p="Factories" t="IncludeRecursive">
+        <e p="AbstractFactory.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Factories.csproj" t="IncludeRecursive" />
+        <e p="Factory.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">

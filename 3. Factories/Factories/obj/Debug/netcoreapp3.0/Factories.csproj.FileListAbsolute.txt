@@ -1,0 +1,11 @@
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\bin\Debug\netcoreapp3.0\Factories.exe
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\bin\Debug\netcoreapp3.0\Factories.deps.json
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\bin\Debug\netcoreapp3.0\Factories.runtimeconfig.json
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\bin\Debug\netcoreapp3.0\Factories.runtimeconfig.dev.json
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\bin\Debug\netcoreapp3.0\Factories.dll
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\bin\Debug\netcoreapp3.0\Factories.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\obj\Debug\netcoreapp3.0\Factories.csprojAssemblyReference.cache
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\obj\Debug\netcoreapp3.0\Factories.AssemblyInfoInputs.cache
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\obj\Debug\netcoreapp3.0\Factories.AssemblyInfo.cs
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\obj\Debug\netcoreapp3.0\Factories.dll
+E:\Coding\Course\Design Patterns in C# and .NET\3. Factories\Factories\obj\Debug\netcoreapp3.0\Factories.pdb

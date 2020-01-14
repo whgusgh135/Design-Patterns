@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\Factories.csproj": {}
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\Factories.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\Factories.csproj": {
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\Factories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\Factories.csproj",
+        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\Factories.csproj",
         "projectName": "Factories",
-        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\Factories.csproj",
+        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\Factories.csproj",
         "packagesPath": "C:\\Users\\조현호\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\obj\\",
+        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\조현호\\AppData\\Roaming\\NuGet\\NuGet.Config"

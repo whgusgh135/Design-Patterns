@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\Factories.csproj",
+    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\Factories.csproj",
     "projectName": "Factories",
-    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\Factories.csproj",
-    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Factories\\Factories\\obj\\",
+    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\Factories.csproj",
+    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\3. Factories\\Factories\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

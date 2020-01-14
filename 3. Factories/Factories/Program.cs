@@ -21,7 +21,17 @@ namespace Factories
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Factory
+            var point = Point.NewPolarPoint(1, Math.PI / 2);
+            Console.WriteLine(point);
+
+            var point2 = Point2Factory.NewPolarPoint(1, Math.PI / 2);
+            Console.WriteLine(point2);
+            
+            // Abstract Factory
+            var machines = new HotDrinkMachine();
+            var drink = machines.MakeDrink(HotDrinkMachine.AvailableDrink.Tea, 100);
+            drink.Consume();
         }
     }
 }
