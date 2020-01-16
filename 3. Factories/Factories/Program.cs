@@ -32,6 +32,11 @@ namespace Factories
             var machines = new HotDrinkMachine();
             var drink = machines.MakeDrink(HotDrinkMachine.AvailableDrink.Tea, 100);
             drink.Consume();
+            
+            // Abstract Factory and OCP
+            var machine = new HotDrinkMachine2();
+            var drink2 = machine.MakeDrink();
+            drink2.Consume();
         }
     }
 }
