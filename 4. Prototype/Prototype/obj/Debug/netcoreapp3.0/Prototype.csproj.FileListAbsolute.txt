@@ -1,0 +1,11 @@
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.exe
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.deps.json
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.runtimeconfig.json
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.runtimeconfig.dev.json
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.dll
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.csprojAssemblyReference.cache
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.AssemblyInfoInputs.cache
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.AssemblyInfo.cs
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.dll
+E:\Coding\Course\Design Patterns in C# and .NET\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.pdb
