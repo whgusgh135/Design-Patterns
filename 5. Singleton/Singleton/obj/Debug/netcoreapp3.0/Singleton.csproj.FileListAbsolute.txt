@@ -1,0 +1,15 @@
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\capitals.txt
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.exe
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.deps.json
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.json
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.dev.json
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.dll
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\MoreLinq.dll
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.csprojAssemblyReference.cache
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfoInputs.cache
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfo.cs
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.csproj.CopyComplete
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.dll
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\Singleton\Singleton\bin\Debug\netcoreapp3.0\nunit.framework.dll
