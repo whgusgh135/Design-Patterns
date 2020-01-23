@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\Singleton.csproj": {}
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\Singleton.csproj": {
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\Singleton.csproj",
+        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\조현호\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\obj\\",
+        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\조현호\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.4.0, )"
+              "version": "[16.5.0-preview-20200116-01, )"
             },
             "NUnit": {
               "target": "Package",

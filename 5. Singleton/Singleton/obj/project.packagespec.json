@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\Singleton.csproj",
+    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\Singleton.csproj",
     "projectName": "Singleton",
-    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\Singleton.csproj",
-    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Singleton\\Singleton\\obj\\",
+    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\Singleton.csproj",
+    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\5. Singleton\\Singleton\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -28,7 +28,7 @@
       "dependencies": {
         "Microsoft.NET.Test.Sdk": {
           "target": "Package",
-          "version": "[16.4.0, )"
+          "version": "[16.5.0-preview-20200116-01, )"
         },
         "NUnit": {
           "target": "Package",
