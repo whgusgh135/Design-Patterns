@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj": {}
+  },
+  "projects": {
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\조현호\\.nuget\\packages\\",
+        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\조현호\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "morelinq": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\조현호\\.dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
