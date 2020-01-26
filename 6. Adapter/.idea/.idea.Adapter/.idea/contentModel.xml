@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\조현호\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\조현호\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Adapter.2046377864.00" t="ExcludeRecursive" />
-    <e p="E:\Coding\Course\Design Patterns in C# and .NET\Adapter" t="IncludeFlat">
+    <e p="C:\Users\조현호\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Adapter.-523977534.00" t="ExcludeRecursive" />
+    <e p="E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter" t="IncludeFlat">
       <e p="Adapter" t="IncludeRecursive">
         <e p="Adapter.cs" t="Include" />
         <e p="Adapter.csproj" t="IncludeRecursive" />

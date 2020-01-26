@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj": {}
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj": {
+    "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj",
+        "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\조현호\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\obj\\",
+        "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\조현호\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
             "morelinq": {
               "target": "Package",
               "version": "[3.3.2, )"

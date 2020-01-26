@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj",
+    "projectUniqueName": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\Adapter.csproj",
     "projectName": "Adapter",
-    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\Adapter.csproj",
-    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\Adapter\\Adapter\\obj\\",
+    "projectPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\Adapter.csproj",
+    "outputPath": "E:\\Coding\\Course\\Design Patterns in C# and .NET\\6. Adapter\\Adapter\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -26,6 +26,10 @@
   "frameworks": {
     "netcoreapp3.0": {
       "dependencies": {
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        },
         "morelinq": {
           "target": "Package",
           "version": "[3.3.2, )"

@@ -1,0 +1,14 @@
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.exe
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.deps.json
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.json
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.dev.json
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.dll
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\MoreLinq.dll
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csprojAssemblyReference.cache
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csproj.CopyComplete
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.dll
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.pdb
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\nunit.framework.dll
