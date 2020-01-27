@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
+using Adapter;
 using MoreLinq;
 using NUnit.Framework;
 using static System.Console;
@@ -178,6 +179,12 @@ namespace DotNetDesignPatternDemos.Structural.Adapter.WithCaching
           adapter.ForEach(DrawPoint);
         }
       }
+      
+      // Generic value adapter
+      var v = new Vector2i();
+      v[0] = 0;
+
+      var vv = new Vector2i();
     }
   }
 }
