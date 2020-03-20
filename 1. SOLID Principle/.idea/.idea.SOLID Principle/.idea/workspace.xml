@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="" />
+    <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../6. Adapter/Adapter/GenericValueAdapter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../6. Adapter/Adapter/GenericValueAdapter.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../6. Adapter/Adapter/GenericValueAdapter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOLID Principle/LiskovSubstitution.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOLID Principle/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOLID Principle/OpenClosed.cs" root0="FORCE_HIGHLIGHTING" />
@@ -94,6 +97,7 @@
       <workItem from="1578649944681" duration="120000" />
       <workItem from="1579408587079" duration="471000" />
       <workItem from="1579496443062" duration="702000" />
+      <workItem from="1581317555521" duration="500000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 
 namespace Adapter
 {
-    / Vector2f, Vector3i
+    // Vector2f, Vector3i
 
   public interface IInteger
   {
