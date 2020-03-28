@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../6. Adapter/Adapter/GenericValueAdapter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../6. Adapter/Adapter/GenericValueAdapter.cs" afterDir="false" />
-    </list>
+    <list default="true" id="549a4585-70cb-4289-9d81-aedc3d40a4b4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +96,10 @@
       <workItem from="1579408587079" duration="471000" />
       <workItem from="1579496443062" duration="702000" />
       <workItem from="1581317555521" duration="500000" />
+      <workItem from="1585036938807" duration="1215000" />
+      <workItem from="1585120206828" duration="2158000" />
+      <workItem from="1585204300808" duration="977000" />
+      <workItem from="1585283883781" duration="1639000" />
     </task>
     <servers />
   </component>

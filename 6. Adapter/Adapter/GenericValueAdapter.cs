@@ -33,6 +33,7 @@ namespace Adapter
       data = new T[new D().Value];
     }
 
+    // params will let you pass any number of arguments
     public Vector(params T[] values)
     {
       var requiredSize = new D().Value;

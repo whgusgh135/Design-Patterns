@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"

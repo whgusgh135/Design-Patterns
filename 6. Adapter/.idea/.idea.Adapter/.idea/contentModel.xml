@@ -7,6 +7,7 @@
       <e p="Adapter" t="IncludeRecursive">
         <e p="Adapter.cs" t="Include" />
         <e p="Adapter.csproj" t="IncludeRecursive" />
+        <e p="AdapterInDependencyInjection.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="GenericValueAdapter.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
