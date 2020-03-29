@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using Adapter;
+using Autofac;
 using MoreLinq;
 using NUnit.Framework;
 using static System.Console;
@@ -190,6 +191,19 @@ namespace DotNetDesignPatternDemos.Structural.Adapter.WithCaching
 
       Vector3f u = Vector3f.Create(3.5f, 2.2f, 1);
 
+      
+      // Adapter In Dependency Injection
+      var b = new ContainerBuilder();
+      b.RegisterType<SaveCommand>().As<ICommand>();
+      b.RegisterType<OpenCommand>().As<ICommand>();
+      b.RegisterType<Button>();
+      b.RegisterType<Editor>();
+
+      using (var c = b.Build())
+      {
+        var editor = c.Resolve<Editor>();
+        editor.ClickAll();
+      }
     }
   }
 }
