@@ -29,25 +29,34 @@ namespace Adapter
     public class Button
     {
         private ICommand command;
+        private string name;
 
-        public Button(ICommand command)
+        public Button(ICommand command, string name)
         {
             if (command == null)
             {
                 throw new ArgumentNullException(paramName: nameof(command));
             }
             this.command = command;
+            this.name = name;
         }
 
         public void Click()
         {
             command.Execute();
         }
+
+        public void PrintMe()
+        {
+            Console.WriteLine($"I am a button {name}");
+        }
     }
 
     public class Editor
     {
         private IEnumerable<Button> buttons;
+
+        public IEnumerable<Button> Buttons => buttons;
 
         public Editor(IEnumerable<Button> buttons)
         {

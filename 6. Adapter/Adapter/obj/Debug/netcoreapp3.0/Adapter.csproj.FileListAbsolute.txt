@@ -12,3 +12,4 @@ E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\net
 E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.dll
 E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.pdb
 E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\nunit.framework.dll
+E:\Coding\Course\Design Patterns in C# and .NET\6. Adapter\Adapter\bin\Debug\netcoreapp3.0\Autofac.dll

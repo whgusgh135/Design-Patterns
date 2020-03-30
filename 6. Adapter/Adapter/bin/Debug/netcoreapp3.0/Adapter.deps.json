@@ -8,11 +8,20 @@
     ".NETCoreApp,Version=v3.0": {
       "Adapter/1.0.0": {
         "dependencies": {
+          "Autofac": "5.1.2",
           "NUnit": "3.12.0",
           "morelinq": "3.3.2"
         },
         "runtime": {
           "Adapter.dll": {}
+        }
+      },
+      "Autofac/5.1.2": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.1.2.0",
+            "fileVersion": "5.1.2.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -47,6 +56,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/5.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iGEx5Cm6Uor6/bZkgCHHjJO8cEQvDSOxgzNmHGJgGOnLDCe0b8NpOlhotsqx8dFvBDCsEX/V3YGRR30sRQLsxw==",
+      "path": "autofac/5.1.2",
+      "hashPath": "autofac.5.1.2.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
