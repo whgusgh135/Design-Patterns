@@ -50,8 +50,6 @@ namespace Singleton
     The biggest problem with this is performance; performance suffers since a lock is required every time an instance is requested.
      */
 
-        //dhdhdr
-
     public sealed class BetterSingleton
     {
         BetterSingleton()
