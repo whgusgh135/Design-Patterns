@@ -111,3 +111,9 @@ E:\Coding\Course\Design Patterns in C# and .NET\5. Singleton\Singleton\bin\Debug
 E:\Coding\Course\Design Patterns in C# and .NET\5. Singleton\Singleton\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 E:\Coding\Course\Design Patterns in C# and .NET\5. Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.csproj.CopyComplete
 E:\Coding\Course\Design Patterns in C# and .NET\5. Singleton\Singleton\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Data\Solutions\Design-Patterns\5. Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.deps.json
+C:\Data\Solutions\Design-Patterns\5. Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.json
+C:\Data\Solutions\Design-Patterns\5. Singleton\Singleton\bin\Debug\netcoreapp3.0\Singleton.runtimeconfig.dev.json
+C:\Data\Solutions\Design-Patterns\5. Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.AssemblyInfo.cs
+C:\Data\Solutions\Design-Patterns\5. Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.dll
+C:\Data\Solutions\Design-Patterns\5. Singleton\Singleton\obj\Debug\netcoreapp3.0\Singleton.pdb
