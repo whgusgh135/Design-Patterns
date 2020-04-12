@@ -72,4 +72,22 @@ namespace Singleton
             }
         }
     }
+
+
+    // Using Lazy<T> Type
+
+    public sealed class LazySingleton
+    {
+        private LazySingleton()
+        {
+        }
+        private static readonly Lazy<LazySingleton> lazy = new Lazy<LazySingleton>(() => new LazySingleton());
+        public static LazySingleton Instance
+        {
+            get
+            {
+                return lazy.Value;
+            }
+        }
+    }
 }
