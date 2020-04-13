@@ -73,6 +73,28 @@ namespace Singleton
         }
     }
 
+    // Fully lazy instantiation
+
+    public sealed class LSingleton
+    {
+        private LSingleton()
+        {
+        }
+
+        public static LSingleton Instance { get { return Nested.instance; } }
+
+        private class Nested
+        {
+            // Explicit static constructor to tell C# compiler
+            // not to mark type as beforefieldinit
+            static Nested()
+            {
+            }
+
+            internal static readonly LSingleton instance = new LSingleton();
+        }
+    }
+
 
     // Using Lazy<T> Type
 
