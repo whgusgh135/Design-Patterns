@@ -73,7 +73,7 @@ namespace Singleton
         }
     }
 
-    // Fully lazy instantiation
+    // Fully Lazy Instantiation
 
     public sealed class LSingleton
     {
